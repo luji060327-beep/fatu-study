@@ -1,12 +1,13 @@
 {
-  "name": "法途 · 我的学习空间",
-  "short_name": "法途学习",
-  "description": "俄罗斯法学与俄语学习助手",
-  "start_url": "./index.html",
+  "name": "法途 Study · 私人学习空间",
+  "short_name": "法途 Study",
+  "description": "每日计划、三人课表、俄语复习和法学学习",
+  "id": "./",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#10172d",
+  "background_color": "#100e1d",
+  "theme_color": "#100e1d",
   "icons": [
     {
       "src": "./icons/icon-192.png",
